@@ -5,12 +5,13 @@ Set up
     % . .venv/bin/activate
     % pip install numpy
     % pip install matplotlib
+    % django-admin startproject neural_network_project .
+    % python3 manage.py runserver
 
     % pip list   #Check installed dependencies
 
     % pip freeze > requirements.txt     #save package information
     % pip install -r requirements.txt   #go through file to install packages
-
 
 
 check versions:
