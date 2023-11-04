@@ -1,0 +1,12 @@
+NumPy
+https://numpy.org/doc/
+
+Matplotlib
+https://matplotlib.org/stable/index.html
+
+Py Black
+https://black.readthedocs.io/en/stable/
+
+Pylint
+https://pylint.readthedocs.io/en/stable/
+

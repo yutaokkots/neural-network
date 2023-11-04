@@ -8,6 +8,11 @@ Set up
 
     % pip list   #Check installed dependencies
 
+    % pip freeze > requirements.txt     #save package information
+    % pip install -r requirements.txt   #go through file to install packages
+
+
+
 check versions:
 
 import sys
